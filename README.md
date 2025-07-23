@@ -14,6 +14,15 @@ This project aims to **predict the likelihood of diabetes** in patients using da
 
 
 
+# Tools Used 
+
+- Python (Pandas, Scikit-learn, Matplotlib)
+- Jupyter Notebook
+- Power BI
+- GitHub
+  
+
+
 ##  Files in This Repository
 
 | File                         | Description                                             |
@@ -46,7 +55,7 @@ The Power BI dashboard visualizes:
 
 ![Dashboard Preview](output_screenshot.png)
 
----
+
 
 # Requirements
 
