@@ -44,6 +44,17 @@ This project aims to **predict the likelihood of diabetes** in patients using da
 
 
 
+# Output (New Patient Prediction) 
+
+A patient's medical data was given to the trained ML model.
+The model processed and predicted the outcome.
+Prediction Result: "Positive for Diabetes" or "Negative for Diabetes"
+
+Below is the screenshot of the model's actual prediction:
+(output_screenshot.png)
+
+
+
 # Power BI Dashboard Highlights
 
 The Power BI dashboard visualizes:
