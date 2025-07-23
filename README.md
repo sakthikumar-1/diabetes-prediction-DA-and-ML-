@@ -74,3 +74,16 @@ Install required libraries:
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
+
+##  Contact
+
+For questions or collaborations, feel free to connect:
+
+Sakthi Kumar B
+
+Email: b.sakthikumar10@gmail.com  
+
+LinkedIn: [linkedin.com/in/sakthikumar1](https://www.linkedin.com/in/sakthikumar1)  
+ 
+GitHub: [github.com/sakthikumar-1](https://github.com/sakthikumar-1)
+
