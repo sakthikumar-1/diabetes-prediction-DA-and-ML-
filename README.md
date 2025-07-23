@@ -53,7 +53,7 @@ The Power BI dashboard visualizes:
 - Glucose & BMI Distributions  
 - Gender-based Trends (if applicable)  
 
-![Dashboard Preview](output_screenshot.png)
+![Dashboard Preview](Dashboard_SS.png)
 
 
 
