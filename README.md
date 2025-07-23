@@ -51,7 +51,7 @@ The model processed and predicted the outcome.
 Prediction Result: "Positive for Diabetes" or "Negative for Diabetes"
 
 Below is the screenshot of the model's actual prediction:
-!(output_screenshot.png)
+![Output Preview](output_screenshot.png)
 
 
 
