@@ -1,0 +1,56 @@
+# Data Analytics Project – Diabetes Prediction using Machine Learning & Power BI
+
+This project aims to **predict the likelihood of diabetes** in patients using data analytics, machine learning, and Power BI visualizations. It provides end-to-end insights, from data cleaning and model training to dashboard creation.
+
+
+
+# Project Overview
+
+- **Project Title**: Diabetes Prediction using Data Analytics  
+- **Dataset**: PIMA Indians Diabetes Dataset  
+- **Tech Stack**: Python, Jupyter Notebook, Power BI  
+- **Model Used**: Logistic Regression,Random Forest, XG Boost
+- **Libraries**: pandas, seaborn, matplotlib, scikit-learn  
+
+
+
+##  Files in This Repository
+
+| File                         | Description                                             |
+|-----------------------------|---------------------------------------------------------|
+| `diabetes.csv`              | Dataset used for prediction                            |
+| `diabetes_Prediction.ipynb` | Jupyter Notebook with data cleaning, EDA & ML model    |
+| `Diabetes_prediction.pbix`  | Power BI report showcasing interactive insights        |
+| `output_screenshot.png`     | Screenshot of Prediction Output                    |
+
+
+
+# Key Features
+
+-  Data Cleaning & Preprocessing using pandas  
+-  Exploratory Data Analysis (EDA) with matplotlib/seaborn  
+-  Logistic Regression Model (Accuracy: ~78%)  
+-  Confusion Matrix & Evaluation Metrics  
+-  Fully Interactive Power BI Dashboard  
+
+
+
+# Power BI Dashboard Highlights
+
+The Power BI dashboard visualizes:
+
+- Diabetic vs Non-Diabetic Patients  
+- Age Group-wise Diabetes Cases  
+- Glucose & BMI Distributions  
+- Gender-based Trends (if applicable)  
+
+![Dashboard Preview](output_screenshot.png)
+
+---
+
+# Requirements
+
+Install required libraries:
+
+```bash
+pip install pandas matplotlib seaborn scikit-learn
