@@ -79,8 +79,6 @@ pip install pandas matplotlib seaborn scikit-learn
 
 For questions or collaborations, feel free to connect:
 
-##  Contact
-
 **Name**: Sakthi Kumar B 
 
 **Email**: b.sakthikumar10@gmail.com
