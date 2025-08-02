@@ -1,4 +1,4 @@
-# Data Analytics Project – Diabetes Prediction using Machine Learning & Power BI
+# Data Analytics Project – Diabetes Prediction using Machine Learning & Data Analytics 
 
 This project aims to **predict the likelihood of diabetes** in patients using data analytics, machine learning, and Power BI visualizations. It provides end-to-end insights, from data cleaning and model training to dashboard creation.
 
